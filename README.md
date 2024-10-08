@@ -4,5 +4,5 @@ monedas. La API tiene un apartado para convertir pares de monedas, lo cual se ut
 
 
 
-El proyecto tiene 2 clase. Una es la clase API donde se conecta con la API, luego hacemos un mapeo para convertirlo en un Mapa, esto se hace
+El proyecto tiene 2 clases. Una es la clase API donde se conecta con la API, luego hacemos un mapeo para convertirlo en un Mapa, esto se hace
 para manejar mejor los datos y traer el resultado. La otra clase es la Main donde esta toda la logica del proyecto.
