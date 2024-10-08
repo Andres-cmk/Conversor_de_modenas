@@ -211,6 +211,8 @@ public class Main {
                         break;
                 }
             }
+            // cerramos el sistema I/O
+            input.close();
         }catch (Exception e){
             System.out.println(e);
         }
